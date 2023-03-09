@@ -1,0 +1,13 @@
+<action name="login" class="com.mypack.login">
+
+<result name="success">
+
+Welcome.jsp
+</result>
+
+<result name="error">
+
+Error.jsp
+</result>
+
+</action>
